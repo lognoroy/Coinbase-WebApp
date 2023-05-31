@@ -1,4 +1,3 @@
-High-Level Design (HLD) for a Crypto Web Application using React.js, Chakra UI, Axios, and CoinGecko API:
 
 1. Overview:
 The crypto web application is a platform that provides users with real-time information about cryptocurrencies. It allows users to view the latest prices, market data, and other relevant information about various cryptocurrencies. The application will be built using React.js for the front-end, Chakra UI for the user interface components, Axios for making API requests, and CoinGecko API for retrieving crypto-related data.
