@@ -1,4 +1,5 @@
 
+
 1. Overview:
 The crypto web application is a platform that provides users with real-time information about cryptocurrencies. It allows users to view the latest prices, market data, and other relevant information about various cryptocurrencies. The application will be built using React.js for the front-end, Chakra UI for the user interface components, Axios for making API requests, and CoinGecko API for retrieving crypto-related data.
 
@@ -16,11 +17,9 @@ The crypto web application will follow a client-server architecture, where the c
 
 3. User Interface:
 The client-side React application will provide a visually appealing and intuitive user interface using Chakra UI components. The following features will be included:
-   - Cryptocurrency List: Users can view a list of popular cryptocurrencies, including their names, symbols, prices, and percentage changes.
+   - Cryptocurrency List: Users can view a list of popular cryptocurrencies, including their names, symbols, prices, changes.
    - Detailed Cryptocurrency View: Users can click on a specific cryptocurrency to view more detailed information, such as market cap, volume, and price charts.
-   - Search Functionality: Users can search for specific cryptocurrencies using their names or symbols, filtering the displayed list based on their search query.
-   - Theme Customization: The application can support theme customization, allowing users to switch between light and dark themes.
-
+  
 4. Data Retrieval:
 The server-side will use Axios to make API requests to the CoinGecko API and retrieve real-time cryptocurrency data. The following functionalities will be included:
    - Cryptocurrency Prices: The server will retrieve the latest prices of cryptocurrencies from the CoinGecko API and return them to the client-side for display.
@@ -32,7 +31,11 @@ The application will handle error scenarios and loading states to provide a seam
    - Error Handling: The application will display appropriate error messages and notifications in case of API request failures or other errors.
    - Loading States: The application will display loading indicators or placeholders while waiting for API responses to ensure a smooth user experience during data retrieval.
 
-6. User Preferences and Settings:
-The application can allow users to customize their preferences and settings. The following functionalities can be included:
-   - Currency Selection: Users can choose their preferred currency to display cryptocurrency prices and market data.
-   - Price Alerts: Users can set price alerts for specific cryptocurrencies and receive notifications when the prices reach their defined
+
+
+
+
+
+
+
+
